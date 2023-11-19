@@ -214,6 +214,5 @@ int main()
 {
     char s[255];
     cin.getline(s, 255);
-    ///scrie aici functia ce vrei sa o testezi:
     return 0;
 }
