@@ -70,7 +70,7 @@ void varianta1()
         dupa ultima trecere prin while suma va fii 215
         suma = 215
         int(sume) = 215 (215 ne avand o partea rationala nu se taie nimic)
-        215 - 215 = 0, suma a devenit numar rational, deci nu se mai repeta while-ul
+        215 - 215 = 0, suma a devenit numar intreg, deci nu se mai repeta while-ul
     */
     while(suma - int(suma) != 0){
         suma = suma * numitor;
